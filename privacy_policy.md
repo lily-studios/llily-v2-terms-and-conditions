@@ -9,184 +9,266 @@
 
 ## 1. Introduction
 
-This Privacy Policy explains how **Lily Studios** ("we", "us", "our") collects, uses, stores, and protects information when you use **Lily Discord Bot v2** ("the Bot").
+This Privacy Policy ("Policy") describes in detail how **Lily Studios** ("we", "us", "our") collects, processes, stores, protects, and manages information in connection with the use of **Lily Discord Bot v2** ("the Bot").
 
-By using the Bot, you agree to the practices described in this Privacy Policy.
+This Policy applies to all Discord servers, users, and environments in which the Bot is installed, invited, or otherwise interacted with.
 
-If you do not agree with this policy, you should remove the Bot from your Discord server and discontinue use immediately.
+By adding, using, or interacting with the Bot in any Discord server, you explicitly acknowledge that you have read, understood, and agreed to the practices described in this Policy.
+
+If you do not agree with this Policy in full, you must immediately remove the Bot from any server you manage and discontinue all use of the Bot.
 
 ---
 
-## 2. Information We Collect
+## 2. Scope of This Policy
 
-Lily Discord Bot v2 collects only the minimum data necessary for functionality and stability.
+This Policy applies strictly to:
+- The Lily Discord Bot v2 application
+- All bot-related services, APIs, commands, and features
+- All servers in which the Bot is installed
+- All users interacting with Bot commands or features
 
-### 2.1 Server Information
-We may collect and store:
-- Discord Server (Guild) ID
-- Server configuration settings (prefixes, toggles, feature settings)
-- Role IDs and channel IDs used for bot features
+This Policy does not apply to:
+- Discord itself (governed by Discord’s Privacy Policy)
+- Third-party services integrated by Discord
+- External links or services not controlled by Lily Studios
 
-### 2.2 User Information (Limited)
-We may process limited user-related data when interacting with the Bot:
-- Discord User ID (for moderation and tracking actions)
-- Username or display name (for logs or moderation records)
-- Command usage data (for debugging, rate limits, and analytics)
+---
 
-We do **not** collect sensitive personal information such as:
+## 3. Information We Collect
+
+We collect only the minimum amount of data required to operate, maintain, and improve the Bot’s functionality.
+
+### 3.1 Server (Guild) Data
+When the Bot is added to a Discord server, we may automatically store:
+
+- Discord Server ID (Guild ID)
+- Server name (for identification purposes only)
+- Server configuration settings (such as prefixes, feature toggles, moderation settings)
+- Channel IDs configured for logging, moderation, or system outputs
+- Role IDs used by Bot features (moderation roles, admin roles, etc.)
+
+This data is required to ensure proper functionality and customization of the Bot per server.
+
+---
+
+### 3.2 User Data
+
+When users interact with the Bot, we may process:
+
+- Discord User ID (required for moderation tracking and identification)
+- Username and discriminator or display name (for logging and moderation context)
+- Command usage metadata (what commands were used, when they were used)
+- Moderation-related actions (warnings, mutes, bans, kicks issued via the Bot)
+
+We do NOT collect:
 - Passwords
 - Email addresses
-- Private messages outside Bot usage scope
+- Private direct messages outside Bot command usage
+- Payment information
+- Sensitive personal identity data
 
 ---
 
-## 3. How We Use Information
+### 3.3 Message Content (Conditional Processing)
 
-Collected data is used strictly for:
+In certain features such as moderation, logging, or anti-spam systems, the Bot may temporarily access message content.
 
-- Providing Bot functionality (moderation, utility, automation)
-- Storing server configuration settings
-- Executing commands correctly within Discord servers
-- Logging moderation actions (warnings, kicks, bans, mutes)
-- Improving performance, stability, and reliability
-- Preventing abuse, spam, or exploitation of the Bot
+This is limited to:
+- Messages explicitly required for command execution
+- Messages flagged by moderation or anti-spam systems
+- Messages configured by server administrators for logging purposes
 
-We do not use collected data for advertising or marketing purposes.
-
----
-
-## 4. Message Content and Permissions
-
-Depending on the features enabled by a server, the Bot may temporarily process message content for:
-
-- Moderation commands (e.g., filtering, logging, anti-spam detection)
-- Command execution (reading command inputs)
-- Automated moderation systems (if enabled by server administrators)
-
-Message content is:
-- Only accessed when required for Bot functionality
-- Not permanently stored unless explicitly needed for moderation logs
-- Not shared with third parties
+We do NOT permanently store message content unless:
+- Explicitly required for moderation logs
+- Configured by server administrators
+- Required for abuse investigation or debugging
 
 ---
 
-## 5. Data Storage and Security
+### 3.4 Technical and Diagnostic Data
 
-We take reasonable steps to protect stored data, including:
+To maintain performance and reliability, we may collect:
+- Command execution timestamps
+- Error logs and stack traces
+- System performance metrics (latency, failures, response time)
+- Rate limit tracking data
 
-- Secure database storage
-- Restricted access to Bot data by authorized developers only
-- Protection against unauthorized access and abuse
-
-However, no system is 100% secure, and we cannot guarantee absolute security of data.
-
----
-
-## 6. Data Retention
-
-We retain data only for as long as necessary to:
-
-- Operate Bot features
-- Maintain moderation logs
-- Ensure system stability and abuse prevention
-
-Data may be removed when:
-- The Bot is removed from a server
-- A server requests data deletion (where applicable)
-- Data is no longer needed for operational purposes
-
-Some backups may temporarily retain data for system recovery purposes.
+This data is used strictly for debugging and system optimization.
 
 ---
 
-## 7. Data Sharing
+## 4. How We Use Collected Data
 
-We do **not** sell, rent, or trade user data.
+All collected information is used exclusively for legitimate operational purposes, including but not limited to:
 
-We may only share data in the following cases:
-- When required by law or legal process
-- To protect the security and integrity of the Bot
-- To prevent abuse, fraud, or malicious activity
+### 4.1 Core Functionality
+- Executing Bot commands accurately
+- Storing server configurations
+- Managing moderation systems (warnings, bans, logs)
+- Providing utility and automation features
 
-No data is shared with advertisers or unrelated third parties.
+### 4.2 System Maintenance
+- Detecting and resolving bugs or errors
+- Monitoring system stability and uptime
+- Improving response performance and efficiency
+
+### 4.3 Security and Abuse Prevention
+- Preventing spam, flooding, or malicious command abuse
+- Detecting unauthorized or suspicious activity
+- Enforcing rate limits and usage restrictions
+
+We do NOT use collected data for:
+- Advertising or marketing
+- Selling or renting to third parties
+- User profiling outside Bot functionality
+
+---
+
+## 5. Data Storage and Protection
+
+We implement reasonable technical and organizational measures to protect stored data, including:
+
+- Secure database storage systems
+- Restricted internal access limited to authorized developers
+- Logging controls and audit mechanisms
+- Protection against unauthorized external access
+
+However, no system is completely secure. We cannot guarantee absolute protection against all forms of unauthorized access, hacking, or data loss.
+
+---
+
+## 6. Data Retention Policy
+
+We retain data only for as long as necessary to provide Bot functionality and maintain system integrity.
+
+Retention periods vary depending on data type:
+
+- Server configuration data: retained while Bot is installed
+- Moderation logs: retained for operational and security purposes
+- Diagnostic logs: retained temporarily for debugging purposes
+- Temporary message processing data: discarded immediately after processing unless required for logs
+
+When the Bot is removed from a server:
+- Server-specific configuration data may be deleted or anonymized
+- Some moderation or security logs may remain temporarily in backups
+- Data may persist in encrypted backups for a limited period for recovery purposes
+
+---
+
+## 7. Data Sharing and Disclosure
+
+We do NOT sell, trade, or rent user data under any circumstances.
+
+We may only disclose information in the following limited cases:
+
+- When required by law, legal obligation, or valid governmental request
+- To protect the rights, safety, or security of Lily Studios, users, or the Bot
+- To investigate abuse, fraud, or malicious activity affecting the Bot
+- To enforce compliance with this Privacy Policy
+
+All disclosures are limited strictly to what is necessary.
 
 ---
 
 ## 8. Third-Party Services
 
-Lily Discord Bot v2 may rely on third-party services such as:
-- Discord API
-- Hosting providers
-- Database services
-- Logging or monitoring tools
+Lily Discord Bot v2 may rely on third-party infrastructure or services, including but not limited to:
 
-We are not responsible for the privacy practices or data handling of third-party services.
+- Discord API (core platform functionality)
+- Hosting providers (server runtime environment)
+- Database services (data storage)
+- Logging and monitoring systems
 
----
-
-## 9. User Rights
-
-Depending on your region, you may have rights including:
-- Requesting access to stored data
-- Requesting correction or deletion of data
-- Removing the Bot from your server to stop data collection
-
-To request data removal, the simplest method is to remove the Bot from your Discord server. Additional requests can be made via support channels.
+These third-party providers may process data according to their own privacy policies. Lily Studios is not responsible for the privacy practices of third-party services.
 
 ---
 
-## 10. Children’s Privacy
+## 9. Data Security Measures
 
-Lily Discord Bot v2 is not intended for use by individuals under the age required by Discord’s Terms of Service.
+We take reasonable precautions to protect user and server data, including:
 
-We do not knowingly collect personal data from children.
+- Encrypted storage where applicable
+- Access control restrictions
+- Secure authentication mechanisms
+- Internal logging and monitoring of system activity
+
+Despite these measures, no digital system is completely immune to security risks.
 
 ---
 
-## 11. Data Removal
+## 10. User Rights and Control
 
-You may remove the Bot at any time by:
-- Removing it from your Discord server via server settings
+Depending on your jurisdiction, you may have rights regarding your data, including:
 
-Upon removal:
+- The right to request access to stored data
+- The right to request correction of inaccurate data
+- The right to request deletion of data (where applicable)
+- The right to withdraw consent by removing the Bot
+
+The simplest method to remove data is:
+- Removing Lily Discord Bot v2 from your Discord server
+
+Additional requests can be made through official support channels.
+
+---
+
+## 11. Children’s Privacy
+
+Lily Discord Bot v2 is not intended for use by individuals who do not meet Discord’s minimum age requirements.
+
+We do not knowingly collect personal data from individuals under the required age. If such data is discovered, it will be removed as soon as reasonably possible.
+
+---
+
+## 12. Data Removal and Server Uninstall
+
+When the Bot is removed from a Discord server:
+
 - Server configuration data may be deleted or anonymized
-- Moderation logs may be retained temporarily for abuse prevention or security purposes
+- Moderation logs may be retained temporarily for security and abuse prevention
+- Some data may persist in encrypted backups for limited recovery purposes
+
+Full permanent deletion may take time due to backup retention systems.
 
 ---
 
-## 12. Changes to This Privacy Policy
+## 13. Changes to This Privacy Policy
 
-We may update this Privacy Policy at any time.
+We reserve the right to modify or update this Privacy Policy at any time.
 
-When changes are made:
-- The “Last Updated” date will be revised
-- Continued use of the Bot means you accept the updated policy
+When changes occur:
+- The “Last Updated” date will be updated
+- Changes take effect immediately upon posting
+- Continued use of the Bot constitutes acceptance of the revised Policy
 
-We encourage server owners to review this policy periodically.
+We recommend reviewing this Policy periodically.
 
 ---
 
-## 13. Limitation of Privacy Guarantees
+## 14. Limitation of Privacy Guarantees
 
-While we strive to protect user data, Lily Studios does not guarantee:
+While we implement reasonable safeguards, we cannot guarantee:
+
 - Absolute security of stored data
-- Protection against all unauthorized access
-- Permanent deletion from backup systems immediately
+- Prevention of all unauthorized access attempts
+- Immediate deletion from all backup systems
+- Continuous uninterrupted data protection under all conditions
 
 ---
 
-## 14. Contact Information
+## 15. Contact Information
 
-If you have any questions or requests regarding this Privacy Policy or data handling practices, you may contact Lily Studios via:
+For questions, concerns, or data-related requests regarding Lily Discord Bot v2, you may contact Lily Studios via:
 
-- GitHub repository issues page  
-- Official support channels listed in documentation  
+- GitHub repository issue tracker  
+- Official support channels provided in project documentation  
 
 ---
 
-## 15. Final Statement
+## 16. Final Acknowledgment
 
-By using Lily Discord Bot v2, you acknowledge that:
-- You understand this Privacy Policy
-- You consent to the data practices described above
-- You are responsible for ensuring compliance within your Discord server
+By using Lily Discord Bot v2, you confirm that:
+
+- You have read and fully understood this Privacy Policy
+- You consent to the collection and processing of data as described
+- You accept responsibility for ensuring compliance within your Discord server
