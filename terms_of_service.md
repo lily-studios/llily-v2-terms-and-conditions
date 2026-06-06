@@ -7,259 +7,216 @@
 
 ---
 
-## 1. Overview and Agreement
+## 1. Introduction and Binding Agreement
 
-These Terms of Service ("Terms") govern the use of **Lily Discord Bot v2** ("the Bot"), a Discord application developed and maintained by **Lily Studios** ("we", "us", "our").
+These Terms of Service ("Terms") form a legally binding agreement between **Lily Studios** ("we", "us", "our") and any individual or entity ("you", "user", "server owner", "administrator") who installs, accesses, invites, configures, or interacts with **Lily Discord Bot v2** ("the Bot").
 
-By:
-- Inviting the Bot to a Discord server
-- Using Bot commands or features
-- Interacting with any Bot-generated functionality
+By using the Bot in any capacity—including but not limited to inviting it to a Discord server, executing commands, configuring settings, or allowing users to interact with it—you confirm that you have read, understood, and agree to these Terms in full.
 
-you acknowledge that you have read, understood, and agreed to these Terms.
-
-If you do not agree, you must immediately remove the Bot from any Discord server under your control and stop using its services.
+If you do not agree, you must immediately remove the Bot from all servers under your control and discontinue use.
 
 ---
 
-## 2. Eligibility and Compliance
+## 2. Eligibility and Authorization
 
-To use Lily Discord Bot v2, you must:
-- Comply with Discord’s Terms of Service and Community Guidelines
-- Ensure you are authorized to manage the Discord server where the Bot is installed
-- Be legally permitted to use automated moderation or utility tools in your jurisdiction
+You may use the Bot only if you are legally permitted to use Discord and its services in your jurisdiction and have the authority to manage any server in which the Bot is installed.
 
-You may not use the Bot if:
-- You are prohibited from using Discord services
-- You intend to violate Discord policies or applicable laws
-- You are using the Bot for malicious automation, abuse, or unauthorized manipulation
+You agree that:
+- You will comply with Discord’s Terms of Service and Community Guidelines  
+- You are responsible for all actions taken within your server using the Bot  
+- You will not use the Bot for unlawful, abusive, or prohibited activity  
+
+You may not use the Bot if you are restricted, banned, or otherwise prohibited from using Discord services.
 
 ---
 
-## 3. Purpose of the Bot
+## 3. Purpose and Intended Use
 
-Lily Discord Bot v2 is designed for:
-- Server moderation (warnings, mutes, bans, logs)
-- Utility features (information tools, automation, server management)
-- Administrative assistance for Discord communities
-- Optional experimental or development features (if enabled)
+Lily Discord Bot v2 is designed to provide server management, moderation tools, automation systems, logging utilities, and general-purpose Discord functionality.
 
-The Bot is not intended for:
-- Illegal activity
-- Spam automation or raiding systems
-- Harassment or abuse targeting individuals or communities
-- Circumventing Discord platform restrictions
+The Bot may include features such as:
+- Moderation (warn, mute, kick, ban, logs)
+- Automation tools
+- Utility commands
+- Configuration systems
+- Server management tools
+
+You agree that the Bot is intended only for legitimate Discord server management and may not be used for:
+- Spam or raid automation  
+- Harassment or targeting users  
+- Illegal activity  
+- Exploiting Discord systems or Bot vulnerabilities  
 
 ---
 
 ## 4. Server Owner Responsibility
 
-Server owners and administrators assume full responsibility for:
-- Configuration of the Bot within their server
-- Permissions granted to the Bot (including moderation and admin roles)
-- Actions executed through Bot commands within their server
-- Behavior of server members using Bot features
-
-Lily Studios does not assume responsibility for:
-- Misuse of Bot commands by users in your server
-- Improper configuration or permission settings
-- Administrative decisions made using Bot outputs or logs
-
----
-
-## 5. Permissions and Discord Integration
-
-The Bot may require access to certain Discord permissions, including but not limited to:
-- Message content access (for moderation commands)
-- Member management (for moderation tools)
-- Channel management (for automation features)
-- Audit log access (for logging and tracking actions)
-
-By granting these permissions, you acknowledge:
-- You understand what permissions are being provided
-- You are responsible for restricting permissions appropriately
-- Misconfiguration of permissions is your responsibility, not Lily Studios’
-
----
-
-## 6. Data Collection and Usage
-
-Lily Discord Bot v2 may collect and store limited operational data strictly necessary for functionality, including:
-
-### 6.1 Stored Data Types
-- Server configuration settings (prefixes, feature toggles, role IDs)
-- Moderation logs (warnings, kicks, bans, mutes)
-- Command usage metadata (for rate limiting and debugging)
-- System performance logs (error tracking, crash diagnostics)
-
-### 6.2 Data Usage
-Collected data is used exclusively for:
-- Bot functionality and feature execution
-- Improving stability and performance
-- Debugging and error resolution
-- Preventing abuse or system exploitation
-
-### 6.3 Data Sharing
-We do not:
-- Sell user data
-- Share data with third-party advertisers
-- Distribute server data outside of required infrastructure
-
-Data may only be accessed internally by Lily Studios for maintenance or debugging purposes.
-
----
-
-## 7. Data Retention
-
-Data is retained only as long as necessary for:
-- Functional operation of the Bot
-- Security and abuse prevention
-- Debugging and system integrity
-
-Server administrators may request data removal by removing the Bot from their server. Some logs may remain temporarily in backups for security and operational integrity purposes.
-
----
-
-## 8. Abuse, Misuse, and Restrictions
-
-You agree not to:
-
-- Exploit bugs, vulnerabilities, or unintended behaviors
-- Attempt to reverse engineer, decompile, or extract Bot source code
-- Spam Bot commands or overload system resources
-- Use automated scripts to mass-trigger Bot functions
-- Bypass cooldowns, restrictions, or safety mechanisms
-- Use the Bot to harass, threaten, or target users or servers
-
-Violation of these rules may result in:
-- Immediate Bot removal from your server
-- Blocking of server ID or user ID from Bot services
-- Suspension of Bot functionality in affected environments
-
----
-
-## 9. Service Availability
-
-Lily Studios does not guarantee:
-- Continuous or uninterrupted Bot operation
-- Error-free or bug-free performance
-- Compatibility with all Discord updates or API changes
-
-We reserve the right to:
-- Modify or remove features at any time
-- Temporarily shut down services for maintenance or updates
-- Discontinue the Bot entirely without prior notice
-
----
-
-## 10. Intellectual Property Rights
-
-All components of Lily Discord Bot v2, including but not limited to:
-- Source code
-- Command structure
-- Branding and name ("Lily Studios", "Lily Bot")
-- Documentation and design
-
-are the exclusive property of Lily Studios unless otherwise stated.
-
-You are granted a limited, non-transferable, non-exclusive license to use the Bot within Discord servers under these Terms.
-
-No ownership rights are transferred to you under any circumstance.
-
----
-
-## 11. Third-Party Services
-
-The Bot operates using Discord’s API and may interact with third-party services (such as hosting providers, logging tools, or databases).
+Server owners and administrators are fully responsible for:
+- Configuring the Bot correctly within their server  
+- Managing permissions granted to the Bot  
+- Monitoring usage of Bot features  
+- Ensuring compliance with Discord rules  
 
 Lily Studios is not responsible for:
-- Third-party outages or failures
-- Data loss caused by external services
-- Changes in third-party APIs affecting Bot behavior
+- Misuse of Bot features by server members  
+- Improper configuration or permission setup  
+- Internal disputes within Discord servers  
+- Actions taken using Bot tools by administrators or moderators  
 
 ---
 
-## 12. Disclaimer of Warranties
+## 5. Permissions and Access Scope
 
-The Bot is provided **“as is”** and **“as available”**, without any warranties of any kind.
+The Bot may request Discord permissions required for operation, including message access, message management, role management, member moderation, and audit log access.
 
-Lily Studios explicitly disclaims all warranties including:
-- Merchantability
-- Fitness for a particular purpose
-- Non-infringement
-- Continuous availability or uptime
+By granting these permissions, you acknowledge that:
+- You understand the scope of access being granted  
+- You are responsible for securing and managing permissions  
+- The Bot only uses permissions for intended functionality  
 
----
-
-## 13. Limitation of Liability
-
-To the maximum extent permitted by law, Lily Studios shall not be liable for any damages arising from:
-
-- Loss of data or server configuration
-- Bot downtime or crashes
-- Misuse of Bot commands
-- Discord API failures or interruptions
-- Unauthorized access to server configurations
-
-This includes direct, indirect, incidental, consequential, or punitive damages.
+Improper permission assignment is your responsibility, not Lily Studios’.
 
 ---
 
-## 14. Termination
+## 6. Data Usage and Processing
 
-We reserve the right to terminate, suspend, or restrict access to the Bot at any time without notice if:
+The Bot may process limited operational data required for functionality, including server IDs, user IDs, channel IDs, command usage data, configuration values, and moderation records.
 
-- These Terms are violated
-- Abuse or exploitation is detected
-- Required for legal compliance or security reasons
-- System stability is at risk
+This data is used exclusively for:
+- Command execution  
+- Moderation and logging systems  
+- Configuration storage  
+- System performance and debugging  
+- Abuse prevention and stability  
 
-Server owners may terminate use at any time by removing the Bot from their Discord server.
-
----
-
-## 15. Updates and Changes to Terms
-
-Lily Studios may update or modify these Terms at any time.
-
-When updates occur:
-- The “Last Updated” date will be changed
-- Continued use of the Bot constitutes acceptance of the updated Terms
-
-We encourage server owners to review these Terms periodically.
+We do not sell, rent, or distribute user data to third parties.
 
 ---
 
-## 16. Indemnification
+## 7. Acceptable Use Policy
 
-You agree to indemnify and hold harmless Lily Studios, its developers, contributors, and affiliates from any claims, damages, liabilities, or expenses resulting from:
+You agree not to misuse the Bot in any way, including but not limited to:
 
-- Your use of the Bot
-- Your violation of these Terms
-- Your violation of Discord policies or applicable laws
-- Actions taken within your server using the Bot
+- Exploiting bugs, vulnerabilities, or unintended behavior  
+- Reverse engineering or attempting to extract source code  
+- Spamming or automating abusive command usage  
+- Bypassing cooldowns, limits, or security systems  
+- Harassing, threatening, or targeting users or servers  
+
+Violations may result in immediate restriction or termination of access.
 
 ---
 
-## 17. Governing Law
+## 8. Service Availability
 
-These Terms shall be governed and interpreted under applicable laws of your jurisdiction unless otherwise required by international or platform regulations.
+We do not guarantee that the Bot will always be:
+- Available  
+- Uninterrupted  
+- Error-free  
+- Fully compatible with all Discord updates  
+
+We reserve the right to:
+- Modify or remove features at any time  
+- Perform maintenance without notice  
+- Temporarily or permanently discontinue the Bot  
+
+---
+
+## 9. Intellectual Property
+
+All rights, including source code, branding, design, architecture, and documentation of Lily Discord Bot v2, remain the exclusive property of Lily Studios unless explicitly stated otherwise.
+
+You are granted a limited, revocable, non-transferable license to use the Bot in accordance with these Terms.
+
+No ownership rights are transferred to you.
+
+---
+
+## 10. Third-Party Services
+
+The Bot may depend on third-party services such as Discord API, hosting providers, and database systems.
+
+Lily Studios is not responsible for:
+- Third-party outages or failures  
+- API changes affecting functionality  
+- Data loss caused by external providers  
+
+---
+
+## 11. Disclaimer of Warranties
+
+The Bot is provided **"as is"** and **"as available"**, without warranties of any kind.
+
+We do not guarantee:
+- Continuous uptime  
+- Error-free operation  
+- Compatibility with all environments  
+- Security against all possible threats  
+
+---
+
+## 12. Limitation of Liability
+
+To the maximum extent permitted by law, Lily Studios shall not be liable for any damages resulting from:
+
+- Bot usage or inability to use the Bot  
+- Data loss or corruption  
+- Server misconfiguration  
+- Discord API failures  
+- Unauthorized access or misuse  
+
+---
+
+## 13. Termination
+
+We may suspend, restrict, or terminate access to the Bot at any time if:
+- These Terms are violated  
+- Abuse or misuse is detected  
+- Required for legal or security reasons  
+
+Server owners may remove the Bot at any time, which immediately ends usage.
+
+---
+
+## 14. Changes to Terms
+
+We may update these Terms at any time.
+
+When changes occur:
+- The “Last Updated” date will be updated  
+- Continued use of the Bot constitutes acceptance of the updated Terms  
+
+---
+
+## 15. Indemnification
+
+You agree to indemnify and hold harmless Lily Studios from any claims, damages, or liabilities resulting from your use of the Bot or violation of these Terms.
+
+---
+
+## 16. Governing Law
+
+These Terms are governed by applicable laws depending on jurisdiction, unless overridden by platform or legal requirements.
+
+---
+
+## 17. Severability
+
+If any part of these Terms is found invalid, the remaining sections will remain fully enforceable.
 
 ---
 
 ## 18. Contact Information
 
-For questions, support requests, or legal inquiries regarding Lily Discord Bot v2, please contact Lily Studios through:
-
-- The official GitHub repository issues page  
-- Official support channels (if provided in documentation)
+For questions, support, or legal inquiries, contact Lily Studios via:
+- GitHub repository issues  
+- Official support channels listed in documentation  
 
 ---
 
 ## 19. Final Agreement
 
-By continuing to use Lily Discord Bot v2, you confirm that:
-
-- You have read and understood these Terms
-- You agree to comply with all sections outlined above
-- You accept full responsibility for your use of the Bot within Discord servers
+By using Lily Discord Bot v2, you confirm that:
+- You understand these Terms  
+- You accept full responsibility for usage  
+- You agree to comply with all conditions stated above  
